@@ -1,4 +1,4 @@
-# toy_project
+# Contact App
 Just a simple App to practice with some technologies.
 
 ### What we are going to use:
