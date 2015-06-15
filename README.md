@@ -31,4 +31,6 @@ Just a simple App to practice with some technologies.
 
 * [Trello (Simple Task Management)](https://trello.com/)
 
+* [Handlebars (Templating)](http://handlebarsjs.com/)
+
 
