@@ -13,6 +13,8 @@ Just a simple App to practice with some technologies.
 
 * [MongoDB (Database)](https://www.mongodb.org/)
 
+* [Mongoose (Helper to manage MongoDB)](http://mongoosejs.com/)
+
 * [Gulp (Build Process)](https://markgoodyear.com/2014/01/getting-started-with-gulp/)
 
 * [Sass (CSS Preprocessor)](http://sass-lang.com/)
@@ -30,5 +32,7 @@ Just a simple App to practice with some technologies.
 * [TravisCI (Continouos Integration)](https://travis-ci.org/)
 
 * [Trello (Simple Task Management)](https://trello.com/)
+
+* [Handlebars (Templating)](http://handlebarsjs.com/)
 
 
