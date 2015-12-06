@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AngularToy</title>
+
+	<!-- META -->
+	<meta charset="utf-8">
+	<meta content="Angular Toy Application" name="description">
+	<meta content="Edwin Vasquez" name="author">
+
+	<!-- ICON -->
+	<link rel="icon" type="image/png" href="assets/img/favicon.ico">
+
+	<!-- CSS -->
+
+
+	<!-- JS -->
+	<script src="assets/js/angular.js"></script>
+	<!-- <script src="assets/js/angular-route.js"></script> -->
+	<script src="app/app.module.js"></script>
+	<script src="app/components/home/homeController.js"></script>
+	<script src="app/components/home/homeService.js"></script>
+	<!-- The routing script will be included soon -->
+	<!-- <script src="app/app.routes.js"></script> -->
+</head>
+
+<body ng-app="angularHttp">
+	<h4>Http Query</h4>
+	<ng-include ng-controller="HomeController as home" src="'app/components/home/homeView.html'"></ng-include>
+</body>
+
+</html>
